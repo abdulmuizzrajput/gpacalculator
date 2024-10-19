@@ -2,7 +2,7 @@
 # Gpa And Cgpa Calculator Android App
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://shop.boppixel.in/uploads/custom-images/thumb_image-2024-09-08-02-12-33-7633.png)
 
 
 ### Demo Link   (https://gpacalculator.boppixel.in/appGPA.apk)  
